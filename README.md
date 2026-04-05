@@ -1,4 +1,4 @@
-Smart Voting System
+**Smart Voting System**
 
 The Smart Voting System is a secure and user-friendly web-based application designed to simplify and digitize the voting process. It ensures transparency, prevents duplicate voting, and provides real-time vote tracking.
 
